@@ -1,17 +1,6 @@
 # Análisis de Inventario — Mercado España 2021
 
-**WarmeHands Logistics Inc.** — Dashboard en Power BI (`inventario.pbix`)
-
-## Resumen ejecutivo
-
-| Métrica | Valor |
-|---|---|
-| Ingresos totales | 57,52 mil |
-| COGS total | 6,73 mil |
-| Beneficio total | 50,79 mil |
-| Margen sobre ventas | ≈ 88% |
-
-Un margen del 88% es una señal saludable para el mercado de España. Sin embargo, el desempeño no es uniforme entre categorías: el problema de costes elevados está **focalizado**, no generalizado.
+**WarmeHands Logistics Inc.** — Informe en Power BI (`inventario.pbix`)
 
 ## Rentabilidad por categoría
 
