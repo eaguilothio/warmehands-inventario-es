@@ -14,6 +14,16 @@ En este proyecto se asume el rol de analista responsable del mercado de **Españ
 
 ---
 
+Para el mercado de **España** durante **2021**, los dashboards muestran lo siguiente:
+
+- **Ingresos totales:** 57,52 mil
+- **COGS total:** 6,73 mil
+- **Beneficio total:** 50,79 mil
+
+* Ver los números globales (Ingresos de 57,52 mil, COGS de 6,73 mil y un Beneficio de 50,79 mil) solo te dice que el negocio está operando con números positivos, pero es una foto demasiado general que no te dice dónde está el problema ni dónde se debe actuar. 
+
+El verdadero valor analítico está en el desglose por categorías:
+
 ## Rentabilidad por categoría
 
 ### 🟢 Categorías eficientes (coste % inferior a su aportación al beneficio)
