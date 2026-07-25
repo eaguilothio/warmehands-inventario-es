@@ -2,8 +2,6 @@
 
 **WarmeHands Logistics Inc.** — Informe en Power BI (`inventario.pbix`)
 
-# Análisis de Inventario — WarmeHands Logistics Inc.
-
 ## Contexto del proyecto
 WarmeHands Logistics contrató un equipo de analistas de datos para hacer un análisis de inventario que ayude a optimizar el control de stock y reducir gastos por mala gestión. El equipo de datos se organiza por país: cada analista es responsable de dar seguimiento a un mercado específico, aplicando sobre él las reglas de negocio definidas de forma centralizada (cálculo de Ingresos, COGS, Beneficio).
 
