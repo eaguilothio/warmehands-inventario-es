@@ -186,7 +186,6 @@ Para el mercado de **España** durante **2021**, los dashboards muestran lo sigu
 - **Ingresos totales:** 57,52 mil
 - **COGS total:** 6,73 mil
 - **Beneficio total:** 50,79 mil
-- **Margen sobre ventas:** ≈ 88% (Beneficio Total / Total Ingresos). Un margen alto indica una señal saludable para el mercado analizado.
 
 Categorías Altamente Rentables (Eficientes)
 
