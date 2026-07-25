@@ -208,7 +208,7 @@ Aquí el peso porcentual de los costes supera a lo que la categoría aporta al b
 
 - Toys & edibles (10,75% beneficio): Presenta el mismo problema de ineficiencia. Su contribución a los costes totales supera a su contribución al beneficio.
 
-🎯 Conclusión para tu reporte a WarmeHands Logistics:
+🎯 Conclusiones para WarmeHands Logistics:
 
 El problema de altos gastos y posible mala gestión no es generalizado, sino que está focalizado en las categorías "Home accessories" y "Toys & edibles".
 
