@@ -23,7 +23,7 @@ El problema de altos gastos no afecta a todo el catálogo, sino que se concentra
 
 **Sobre stock:**
 - Asegurar la disponibilidad de *Decoration* en todo momento; es la categoría que más beneficio aporta.
-- Evaluar promociones en *Office & school*: dado su margen alto, un aumento de ventas impactaría de forma muy positiva en caja.
+- Evaluar promociones en *Office & school*: dado sus bajos costes y altos beneficios, un aumento de ventas impactaría de forma muy positiva.
 
 **Sobre reducción de costes (enfocado en Home accessories y Toys & edibles):**
 - **Materia prima:** renegociar con proveedores actuales o buscar alternativas más económicas sin sacrificar calidad.
